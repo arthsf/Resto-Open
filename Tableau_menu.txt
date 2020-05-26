@@ -1,0 +1,4 @@
+3
+Sandwich            PLAT                4
+Oasis               BOISSON             2   
+Sprite sa mere      BOISSON             2

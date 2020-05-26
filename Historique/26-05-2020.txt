@@ -1,0 +1,8 @@
+--------------------------------------------------------------------------------------------
+                                  HISTORIQUE DES COMMANDES                                  
+                                         26-05-2020                                         
+
+NOMBRE TOTALE DE COMMANDES PASSEES : 2
+COMMANDES PASSEE CES 7 DERNIERS JOURS : 2
+MONTANT TOTAL DES COMMMANDES CES 7 DERNIERS JOURS : 8€
+MONTANT MOYEN D'UNE COMMANDE : 4.0€
